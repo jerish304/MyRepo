@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//this is program with a array game which increments the values except the max value and print the count to make the number of moves to make all the number equal
+//this is program with a array game which increments the values except the max value and print the count to make the number of moves 
+//to make all the number equal
 
 public class Arrayadd {
     public static void main(String[] args) {
